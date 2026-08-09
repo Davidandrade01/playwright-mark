@@ -1,0 +1,24 @@
+{
+  "success": {
+    "name": "Comprar leite",
+    "is_done": false
+  },
+  "duplicate": {
+    "name": "Comprar leite",
+    "is_done": false
+  },
+  "required": {
+    "name": "",
+    "is_done": false
+  },
+
+  "update": {
+    "name": "Comprar leite",
+    "is_done": false
+  },
+
+  "delete": {
+    "name": "Comprar leite",
+    "is_done": false
+  }
+}
